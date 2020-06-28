@@ -26,14 +26,14 @@ end
 #     returns an array with the words starting with 'un' and ending with 'ing' (FAILED - 3)
 #   #words_five_letters_long
 #     returns an array of words that are five letters long (FAILED - 4)
-# 
+#
 #     #first_word_capitalized_and_ends_with_punctuation?
 #     Returns true for text starting with a capital letter and ending with puncutation (FAILE
 # D - 5)
-# 
+#
 # Returns false for text starting with an uncapitalized letter but ending with puncutatio
 # n (FAILED - 6)
-# 
+#
 #     Returns false for text starting with a capital letter but ending without puncutation (F
 #     AILED - 7)
 #         Returns false for text starting without a capital letter and ending without puncutation
