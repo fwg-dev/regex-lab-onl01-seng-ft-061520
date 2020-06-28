@@ -8,7 +8,7 @@ end
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
-  #.scan returns an array of all items in your string that match a given Regular Expressions 
+  #.scan returns an array of all items in your string that match a given Regular Expressions
   if text.scan(/un\w+ing/)
   true
 else
